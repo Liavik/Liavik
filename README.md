@@ -88,6 +88,14 @@ Oiie me chamo Julia de Fatima Machado Silva, tenho 24 anos. Atualmente, estou cu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/less/less-plain-wordmark.svg" 
 />
+<img 
+    align="left" 
+    alt="Grunt" 
+    title="Grunt"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grunt/grunt-original-wordmark.svg" 
+/>
 
 <br/>
 <br/>
