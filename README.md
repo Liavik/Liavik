@@ -52,7 +52,7 @@
 
 #### Linguagens de Marcação e Estilização:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-662f99?style=for-the-badge&logo=css&logoColor=white)&nbsp;
 
 <div>
     <img src="https://imgur.com/vRepO3y.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Notbook">
