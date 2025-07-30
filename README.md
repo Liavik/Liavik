@@ -29,14 +29,6 @@
     alt="Top Language"
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liavik&theme=blueberry"
   />
-  <br>
-  <br>
-  <img
-    height=154
-    align="center"
-    alt="Top Language"
-    src="https://github-readme-streak-stats.herokuapp.com?user=liavik&theme=catppuccin-mocha&hide_border=true&locale=pt_BR&card_width=885"
-  />
   </div>
 
 ##
@@ -54,9 +46,10 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-662f99?style=for-the-badge&logo=css&logoColor=white)&nbsp;
 
-<div>
-    <img src="https://imgur.com/vRepO3y.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Notbook">
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="34bc1c9f-71c1-4605-83de-0a3d0c308ebc" data-share-badge-host="https://www.credly.com">
 </div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js">
+</script>
 
 #### Bibliotecas e Frameworks Front-end:
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
