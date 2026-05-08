@@ -1,81 +1,75 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=015d4d"/>
+# ✨ Julia Machado | Full Stack Student
 
-<div align="center">
-    <p>
-        Desenvolvedora motivada pelo interesse e motivação na área de programação. Atualmente cursando "Desenvolvedor FullStack Java" pela EBAC - Escola Britânica de Artes Criativas & Tecnologia. Adquirindo conhecimento em TI para escolher qual área mais me agrada e me cativa.
-        <br>
-        Aqui pode ser encontrado alguns dos meus projetos, fique a vontade!
-    </p>
-</div>
-<br>
+Seja bem-vindo(a)! 👋 Este perfil funciona como meu **centro de exploração tecnológica**. Aqui documento minha evolução, laboratórios de lógica e anotações técnicas, mapeando meu crescimento no desenvolvimento de software.
 
-<div align="center">
-  <img
-    height=165
-    align="center"
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=liavik&show_icons=true&count_private=true&rank_icon=github&theme=catppuccin_mocha&font=Iosevka&hide_border=true&locale=pt-br"
-  />
-  <img
-    height=165
-    align="center"
-    alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=liavik&layout=compact&font=Iosevka&langs_count=16&theme=catppuccin_mocha&hide_border=true&locale=pt-br"
-  />
-  <br>
-  <br>
-  <img
-    align="center"
-    alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liavik&theme=blueberry"
-  />
-  </div>
+> [!IMPORTANT]
+> 🚀 **Meus projetos e aplicações em produção estão centralizados no [GitLab](INSERIR_LINK_AQUI).**
 
-##
+---
 
-#### Linguagem de Programação:
+### 🔭 Foco Atual
+* **Formação:** Técnico em Desenvolvimento de Sistemas (**ETEC**).
+* **Especialização:** Full Stack Java (**EBAC**) & Curso.dev
+* **Praticando:** Java, Next.js, Nest.js, Expo, MySQL
+
+---
+
+### 📚 Organização do Perfil
+*  **Repositórios de Estudo:** Repositórios com anotações teóricas e resumos técnicos.
+*  **Laboratórios:** Exercícios de lógica, desafios de código e testes de novas stacks.
+*  **Projetos Principais:** Minhas aplicações completas e portfólio estão hospedados no **[GitLab](SEU_LINK_DO_GITLAB_AQUI)**.
+
+---
+
+### 🛠️ Tech Stack
+
+#### Linguagens e Superset:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 
-#### Ambiente de Execução:
-![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
-
-#### Controle de Versão:
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-
-#### Linguagens de Marcação e Estilização:
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-662f99?style=for-the-badge&logo=css&logoColor=white)&nbsp;
-
-#### Bibliotecas e Frameworks Front-end:
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
+#### Frameworks e Bibliotecas Front-end:
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
+![Shadcn/UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)&nbsp;
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
 
-#### Pré-processadores CSS:
+#### Desenvolvimento Back-end e Banco de Dados:
+![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+![Nest.js](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
+![TypeORM](https://img.shields.io/badge/TypeORM-fe0808?style=for-the-badge&logo=typeorm&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+
+#### Desenvolvimento Mobile:
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)&nbsp;
+
+#### Automação e Pré-processadores:
+![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)&nbsp;
+![Grunt](https://img.shields.io/badge/Grunt-e38532?style=for-the-badge&logo=grunt&logoColor=white)&nbsp;
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
 ![Less](https://img.shields.io/badge/Less-1c355c?style=for-the-badge&logo=less&logoColor=white)&nbsp;
 
-#### Metodologias de Arquitetura CSS:
-![SMACSS](https://img.shields.io/badge/SMACSS-92c5de?style=for-the-badge&logo=smacss&logoColor=white)&nbsp;
-![BEM](https://img.shields.io/badge/BEM-e1e5e8?style=for-the-badge&logo=bem&logoColor=2d2e2e)&nbsp;
-
-#### Task Runners/Automatizadores de Tarefas:
-![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)&nbsp;
-![Grunt](https://img.shields.io/badge/Grunt-e38532?style=for-the-badge&logo=grunt&logoColor=white)&nbsp;
-
-#### Ferramentas de Design e Colaboração:
+#### Ferramentas, IDEs e Testes:
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
+![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
-#### Plataforma de Deploy/Hospedagem:
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
+#### Marcação e Metodologias:
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-662f99?style=for-the-badge&logo=css&logoColor=white)&nbsp;
+![BEM](https://img.shields.io/badge/BEM-e1e5e8?style=for-the-badge&logo=bem&logoColor=2d2e2e)&nbsp;
+![SMACSS](https://img.shields.io/badge/SMACSS-92c5de?style=for-the-badge&logo=smacss&logoColor=white)&nbsp;
 
-#### Editores de Código e IDEs:
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+---
 
-#### Ferramentas de Comunicação e Colaboração:
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)&nbsp;
+### 🛰️ Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](SEU_LINK_DO_GITLAB_AQUI)
 
-#### Ferramentas de Produtividade:
-![Microsoft_Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=015d4d&height=100&section=footer"/>
+---
+*“O conhecimento é o combustível que nos permite ir além.”* ✨
