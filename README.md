@@ -3,7 +3,7 @@
 Seja bem-vindo(a)! 👋 Este perfil funciona como meu **centro de exploração tecnológica**. Aqui documento minha evolução, laboratórios de lógica e anotações técnicas, mapeando meu crescimento no desenvolvimento de software.
 
 > [!IMPORTANT]
-> 🚀 **Meus projetos e aplicações em produção estão centralizados no [GitLab](INSERIR_LINK_AQUI).**
+> 🚀 **Meus projetos e aplicações em produção estão centralizados no [GitLab](https://gitlab.com/julia.machado0400).**
 
 ---
 
@@ -17,7 +17,7 @@ Seja bem-vindo(a)! 👋 Este perfil funciona como meu **centro de exploração t
 ### 📚 Organização do Perfil
 *  **Repositórios de Estudo:** Repositórios com anotações teóricas e resumos técnicos.
 *  **Laboratórios:** Exercícios de lógica, desafios de código e testes de novas stacks.
-*  **Projetos Principais:** Minhas aplicações completas e portfólio estão hospedados no **[GitLab](SEU_LINK_DO_GITLAB_AQUI)**.
+*  **Projetos Principais:** Minhas aplicações completas e portfólio estão hospedados no **[GitLab](https://gitlab.com/julia.machado0400)**.
 
 ---
 
@@ -68,8 +68,8 @@ Seja bem-vindo(a)! 👋 Este perfil funciona como meu **centro de exploração t
 ---
 
 ### 🛰️ Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](SEU_LINK_DO_GITLAB_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liamachado/)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/julia.machado0400)
 
 ---
 *“O conhecimento é o combustível que nos permite ir além.”* ✨
