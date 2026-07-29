@@ -2,7 +2,6 @@
 
 Seja bem-vindo(a)! 👋 Este perfil é o meu **hub de estudos e projetos em Engenharia de Dados**. Aqui concentro laboratórios de código, rotinas de tratamento de dados, consultas SQL e arquitetura de sistemas.
 
-> [!IMPORTANT]
 > 🚀 **Nota:** Meus projetos de aplicações e repositórios completos também estão centralizados no **[GitLab](https://gitlab.com/julia.machado0400).**
 
 ---
